@@ -19,7 +19,7 @@
     </tr>
 </table>
 
-<h2><img src="res/kyubey.gif"> About me</h2>
+<h2><img src="https://giphy.com/gifs/3o7TKO0X6Qqn1fuBUY"> About me</h2>
 
 <ul align="left">
     <!-- <img src="res/hameru.png" align="right" height="180px"> -->
