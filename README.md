@@ -3,7 +3,7 @@
         <td>
             <br>
             <div align="center">
-                <img src="res/dead.gif">
+                <img src="res/dead.gif width="400">
             </div>
             <br>
         </td>
