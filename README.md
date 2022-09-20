@@ -3,7 +3,7 @@
         <td>
             <br>
             <div align="center">
-                <img src="res/moon.gif" width="200px">
+                <img src="res/moon.gif">
             </div>
             <br>
         </td>
