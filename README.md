@@ -1,3 +1,7 @@
+<h1><strong>Hello, my name is Nikita 👋</strong></h1>
+
+<img src="https://komarev.com/ghpvc/?username=kremogen&style=flat-square&color=blue" alt=""/>
+
 <h2><img src="res/cat.gif" width="40px"> About me</h2>
 
 <ul align="left">
@@ -6,7 +10,7 @@
     <li><strong>From:</strong> Russia;</li>
     <li><strong>Age:</strong> 19 yo;</li>
     <li><strong>Skills: Python</strong>, GoLang, Java, MySQL, PostgreSQL, SQLite, GIT;</li>
-    <li><strong>Frameworks:</strong> PyQT5, Jango, & Express;</li>
+    <li><strong>Frameworks:</strong> PyQT5, Jango;</li>
 </ul>
 <h2 style="font-size: 0; margin-top: 5px;"></h2>
 
