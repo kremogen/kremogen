@@ -1,15 +1,3 @@
-<table align="center">
-    <tr>
-        <td>
-            <br>
-            <div align="center">
-                <img src="res/dead.gif" width="400">
-            </div>
-            <br>
-        </td>
-    </tr>
-</table>
-
 <h2><img src="res/cat.gif" width="40px"> About me</h2>
 
 <ul align="left">
@@ -21,3 +9,5 @@
     <li><strong>Frameworks:</strong> PyQT5, Jango, & Express;</li>
 </ul>
 <h2 style="font-size: 0; margin-top: 5px;"></h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremogen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
