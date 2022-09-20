@@ -3,14 +3,14 @@
         <td>
             <br>
             <div align="center">
-                <img src="res/moon.gif">
+                <img src="res/dead.gif">
             </div>
             <br>
         </td>
     </tr>
 </table>
 
-<h2><img src="res/moon.gif" width="20px"> About me</h2>
+<h2><img src="res/cat.gif" width="40px"> About me</h2>
 
 <ul align="left">
     <!-- <img src="res/hameru.png" align="right" height="180px"> -->
