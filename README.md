@@ -6,7 +6,6 @@
 
 <ul align="left">
     <!-- <img src="res/hameru.png" align="right" height="180px"> -->
-    <li><strong>Name:</strong> Nikita Kalganov;</li>
     <li><strong>From:</strong> Russia;</li>
     <li><strong>Age:</strong> 19 yo;</li>
     <li><strong>Skills: Python</strong>, GoLang, Java, MySQL, PostgreSQL, SQLite, GIT;</li>
