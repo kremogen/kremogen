@@ -8,7 +8,7 @@
     <!-- <img src="res/hameru.png" align="right" height="180px"> -->
     <li><strong>From:</strong> Russia;</li>
     <li><strong>Age:</strong> 21 yo;</li>
-    <li><strong>Skills: Python</strong>, GoLang, Java, MySQL, PostgreSQL, SQLite, GIT;</li>
+    <li><strong>Skills: Python</strong>, FastAPI, Flask, SQL, PostgreSQL, Airflow, GIT;</li>
 </ul>
 <h2 style="font-size: 0; margin-top: 5px;"></h2>
 
