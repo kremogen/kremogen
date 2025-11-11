@@ -7,9 +7,9 @@
 <ul align="left">
     <!-- <img src="res/hameru.png" align="right" height="180px"> -->
     <li><strong>From:</strong> Russia;</li>
-    <li><strong>Age:</strong> 21 yo;</li>
+    <li><strong>Age:</strong> 22 yo;</li>
     <li><strong>Skills: Python</strong>, FastAPI, Flask, SQL, PostgreSQL, Airflow, GIT;</li>
 </ul>
 <h2 style="font-size: 0; margin-top: 5px;"></h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremogen&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremogen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
