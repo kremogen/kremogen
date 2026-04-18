@@ -7,7 +7,7 @@
 <ul align="left">
     <!-- <img src="res/hameru.png" align="right" height="180px"> -->
     <li><strong>From:</strong> Russia;</li>
-    <li><strong>Age:</strong> 22 yo;</li>
+    <li><strong>Age:</strong> 23 yo;</li>
     <li><strong>Skills: Python</strong>, FastAPI, Flask, SQL, PostgreSQL, Airflow, GIT;</li>
 </ul>
 <h2 style="font-size: 0; margin-top: 5px;"></h2>
